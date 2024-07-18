@@ -36,7 +36,7 @@ matriz = [
     [4, 5, 6],
     [7, 8, 9]
 ]
-
+print(matriz)
 for fila in matriz:
     for elemento in fila:
         print(elemento, end=' ')
